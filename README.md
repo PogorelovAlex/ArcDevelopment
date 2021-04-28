@@ -1,6 +1,6 @@
 # ArcDevelopment
 
-![Иллюстрация к проекту](https://github.com/PogorelovAlex/shelterRS/blob/main/Shelter.png)
+![Иллюстрация к проекту](https://github.com/PogorelovAlex/ArcDevelopment/blob/main/arcDev.png)
 
 [Готовый ArcDevelopment](https://pogorelovalex.github.io/ArcDevelopment/#/)
 
