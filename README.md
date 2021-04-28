@@ -1,6 +1,6 @@
 # ArcDevelopment
 
-![Иллюстрация к проекту](https://github.com/PogorelovAlex/ArcDevelopment/blob/main/arcDev.png)
+![Иллюстрация к проекту](https://github.com/PogorelovAlex/ArcDevelopment/blob/master/arcDev.png)
 
 [Готовый ArcDevelopment](https://pogorelovalex.github.io/ArcDevelopment/#/)
 
