@@ -5,4 +5,5 @@
 [Готовый ArcDevelopment](https://pogorelovalex.github.io/ArcDevelopment/#/)
 
 
-Адаптивный сайт на React JS + Matirial UI.
+Адаптивный сайт на React JS + Material UI.
+
